@@ -1,0 +1,5 @@
+{
+  "name": "Universal Turing Machine Simulator",
+  "description": "An interactive web application to design, visualize, and simulate Universal Turing Machines. Define states, alphabets, and transition rules to explore the fundamental concepts of computation with a modern, intuitive interface.",
+  "requestFramePermissions": []
+}
