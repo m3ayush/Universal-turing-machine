@@ -138,12 +138,7 @@ const presets: Preset[] = [
         tapeInput: '111_11',
         definition: PRESET_UNARY_ADDITION,
     },
-    {
-        name: 'Busy Beaver',
-        description: 'A simple machine that writes as many 1s as possible before halting on a blank tape.',
-        tapeInput: '',
-        definition: PRESET_BUSY_BEAVER,
-    },
+    
 ];
 
 
